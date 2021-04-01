@@ -31,10 +31,10 @@ _Esta etapa irá mostrar os seus conhecimentos de Django._
 * Dentro do projeto, inicialize uma aplicação chamada "survey"
 * Inclua survey no projeto take5
 * Crie modelos para sua aplicação: 
-  - Survey (A pesquisa)
-  - SurveyQuestion (AS perguntas da pesquisa)
-  - SurveyQuestionAlternative (AS alternativas para as perguntas da pesquisa)
-  - SurveyUserAnswer (As respostas dos usuários para a Pesquisa)
+  - Survey (Pesquisa)
+  - SurveyQuestion (Perguntas da pesquisa)
+  - SurveyQuestionAlternative (Alternativas para as perguntas da pesquisa)
+  - SurveyUserAnswer (Respostas dos usuários para a Pesquisa)
 * Gere a migração do Banco de Dados para que suas tabela sejam criadas
 * Cadastre uma pesquisa utilizando uma das formas abaixo descritas
 
