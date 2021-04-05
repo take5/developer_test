@@ -6,7 +6,7 @@ Para a realização deste teste você precisará ter conhecimentos dos seguintes
 1. Git
 2. Django
 3. Django Rest Framework
-4. MySQL
+4. PL-SQL (MySQL, MSSQL)
 
 É importante que você sinalize no documento anexo a este projeto caso não tenha domínio em algum dos itens descritos acima.
 Caso tenha alguma dúvida fique a vontade para pesquisar na internet sobre.
