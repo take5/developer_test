@@ -26,8 +26,8 @@ Utilize commits que pontuem o está sendo carregado para o repositório, pois de
 ## Parte 2 (X Partes) - _Welcome to the Django_
 _Esta etapa irá mostrar os seus conhecimentos de Django._
 * Dentro do diretório deste projeto, inicialize um projeto Django, com o nome de "take5"
-* Rode o makemigrations/migrate no projeto para inicializar as tabelas do Django
-* Execute um runserver para verificar se sua aplicação está corretamente funcionando
+* Rode as migrações do seu projeto para inicializar as tabelas do django
+* Inicie o servidor e verifique se sua aplicação está funcionando
 * Dentro do projeto, inicialize uma aplicação chamada "survey"
 * Inclua survey no projeto take5
 * Crie modelos para sua aplicação: 
