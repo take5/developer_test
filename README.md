@@ -14,7 +14,7 @@ Caso tenha alguma dúvida fique a vontade para pesquisar na internet sobre.
 
 # Teste
 
-## Parte 1 (X partes) - _Git, Todo mundo junto_
+## Parte 1 (2 partes) - _Git, Todo mundo junto_
 _Esta etapa irá mostrar os seus conhecimentos de Git._
 * Crie uma branch dentro deste repositório com o seu email como nome. 
 * Para os próximos passos, gostaríamos que você efetuasse, conforme a evolução dos passos push's do seu código para acompanharmos a sua evolução.
@@ -23,7 +23,7 @@ Utilize commits que pontuem o está sendo carregado para o repositório, pois de
 
 
 
-## Parte 2 (X Partes) - _Welcome to the Django_
+## Parte 2 (2 Partes) - _Welcome to the Django_
 _Esta etapa irá mostrar os seus conhecimentos de Django._
 * Dentro do diretório deste projeto, inicialize um projeto Django, com o nome de "take5"
 * Rode as migrações do seu projeto para inicializar as tabelas do django
