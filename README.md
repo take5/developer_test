@@ -51,8 +51,7 @@ _Esta etapa irá mostrar os seus conhecimentos de Django Rest Framework._
 
 # Boa Sorte
 
-
-
+Qualquer dúvida entrar em contato com Alexandre Sanches (alexandre@take5.com.br)
 
 
 
