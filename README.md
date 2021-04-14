@@ -16,8 +16,9 @@ Caso tenha alguma dúvida fique a vontade para pesquisar na internet sobre.
 
 ## Parte 1 (3 partes) - _Git, Todo mundo junto_
 _Esta etapa irá nos apresentar os seus conhecimentos de Git._
-* Crie uma branch dentro deste repositório com o seu email como nome. 
-* Para os próximos passos, gostaríamos que você efetuasse, conforme a evolução dos passos push's do seu código para acompanharmos a sua evolução.
+* Dê um fork deste projeto
+* Crie uma branch dentro do seu fork com o seu email como nome. 
+* Para os próximos passos, gostaríamos que você efetuasse os pushs conforme sua evolução.
 
 Utilize commits que pontuem o está sendo carregado para o repositório, pois depois de você outras pessoas poderão utilizar o mesmo repositório/branch para dar continuidade ao seu trabalho.
 
